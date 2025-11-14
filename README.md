@@ -12,5 +12,5 @@
 - Hero Knight ‑ Pixel Art by Sven Thole (Unity Asset Store)
   https://assetstore.unity.com/packages/2d/characters/hero-knight-pixel-art-165188
 
-# Watching Video
+# Watched Video
 -https://www.youtube.com/watch?v=venyIsxqtxY
